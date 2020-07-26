@@ -1,2 +1,3 @@
-This is story1 and it is beautiful(by child branch)
+This is story1(prithu child branch) and it is beautiful(by child branch)
 im prithu and i forked it for first time
+commiting changes in the child branch of prithu
