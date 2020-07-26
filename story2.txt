@@ -1,1 +1,2 @@
-This is story2 and its also fantastic(by child branch)
+This is description and its also fantastic(by child branch)
+on my second commit on forking prithu
